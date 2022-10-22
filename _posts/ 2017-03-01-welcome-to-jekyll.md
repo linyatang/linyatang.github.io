@@ -6,8 +6,7 @@ layout: post
 ![Swiss Alps](yatang-lin.jpg)
 
 I am an Assistant Professor in Economics at HKUST. I received my Ph.D. from the Londn School of Economics. My research focuses on the urban and environmental economics.
-
-I also teach classes in Blockchain, FinTech and cryptoventures for MBA, MSc and BBA students at HKUST.
+ 
 
 {% highlight ruby %}
 def print_hi(name)
