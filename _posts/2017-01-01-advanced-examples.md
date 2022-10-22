@@ -5,8 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](yatang-lin.jpg)
-
+![Swiss Alps](linyatang.github.io/yatang-lin.jpg)
 
 ## MathJax
 
